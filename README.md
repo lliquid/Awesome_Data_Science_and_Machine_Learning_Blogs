@@ -1,1 +1,3 @@
-# Awesome_Data_Science_and_Machine_Learning_Blogs
+# Awesome Data Science and Machine Learning Blogs
+
+Gradient Science http://gradientscience.org/
